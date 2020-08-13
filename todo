@@ -1,0 +1,11 @@
+# Implement
+- If repeat and skip: then do skip
+
+# Refactor
+- data/messages.json
+- play.js -> player.js
+- play.js reactions duplication with commands
+
+# Evo Bot
+- Repeat one + Reaction
+- Soundcloud playlists
